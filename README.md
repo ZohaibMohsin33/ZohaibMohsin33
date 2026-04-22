@@ -76,15 +76,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZohaibMohsin33&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZohaibMohsin33&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🧩 Problem Solving
 
-- 🧠 200+ LeetCode Problems Solved
+- 🧠 190+ LeetCode Problems Solved
 - 🏆 Strong in Data Structures & Algorithms
 - 🔁 Consistent coding streak
 
