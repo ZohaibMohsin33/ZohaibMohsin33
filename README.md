@@ -12,7 +12,7 @@
 - 💻 Strong in **MERN Stack Development**
 - 🔗 Focused on **Blockchain, Cryptography & Web3**
 - 🧪 Currently working on **Decentralized Applications (DApps)**
-- 🧠 Solved **200+ LeetCode Problems**
+- 🧠 Solved **190+ LeetCode Problems**
 - 📚 Studying **Cryptography & Advanced Algorithms**
 - 🎯 Goal: **Blockchain Researcher / PhD**
 
